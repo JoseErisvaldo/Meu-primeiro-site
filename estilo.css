@@ -1,0 +1,125 @@
+
+	body{
+		/*background =Cor de fundo e imagem de fundo -- font = tamanhoe estilo de letra*/
+		background: #d2d2c1 url('imagens/fundo.png') ;
+		font: 16px Arial, Helvetica, sans-serif;
+	}
+
+	a{
+		color: white;
+		text-decoration: none;
+		border: 1px solid black;
+		width: 1px;
+	}
+
+	#menu{
+		background: black;
+		padding: 1px
+		color: white;
+		text-decoration-color: white;
+		font: 20px serif ; 
+		text-align: center;
+
+
+	}
+
+	.fotos{
+		color: 	white ;
+		text-decoration: none;
+		font-weight: bold;
+		padding: 1px;
+		background:
+
+
+	}
+
+	h1{
+		color:white;
+	}
+
+
+	#td{
+		background: black;
+
+	}
+
+	.h3{
+		background: black;
+		color: white;
+
+	}
+
+	.rodape{
+		color: white;
+		height:40px;	
+		width: 100%;
+		background: linear-gradient(45deg,#084177, #687466,#cd8d7b,#fbc490);
+		background-size: 100% 500%	
+		
+	}
+	
+	.nometag{
+
+	}
+
+	.branco{
+		color:white ;
+	}
+
+	.preto{
+		color: black ;
+	}
+	.vermelho{
+		color: red ;
+	}	
+
+	.fonteredesocial{
+		font: 10px Arial, Helvetica, sans-serif;
+	}
+
+	.performacetag{
+		color: white;
+		font: 25px italic;
+		text-decoration: none;
+		background: black;
+		padding: 1px
+
+	}
+
+	.centro{
+		text-align: center;
+	}
+
+	.borda{
+		border: 1px solid black;
+		background: white;
+		border: 1
+	}
+
+	.negrito{
+	font-weight: bold;
+	}
+
+	.pagina{
+		border: 1px solid black;
+		background: black;
+		color: white;
+		font: 20px italic;
+
+		
+
+	  }
+
+	  .bordatag{
+	  	border: 1px solid white;
+	  	background: black;
+	  	color: white;
+	  	font: 20px italic;
+	  }
+
+	  .tamanhodaletra{
+	  	
+	  	background: black;
+	  	font:20px solid red;
+	  	color:white;
+	  }
